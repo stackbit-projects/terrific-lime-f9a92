@@ -1,8 +1,8 @@
 ---
 layout: home
-title: "Home"
+title: Home
 ---
+Pieter Franciscus M (1992, FKA Pieter Van de Walle) is schrijver en neurobioloog. Hij publiceerde kortverhalen, gedichten, essays en recensies in o.a. Het Liegend Konijn, Hard//Hoofd, DW B, De Reactor, Poëziekrant, De Optimist, Op Ruwe Planken, Kluger Hans en Tijdschrift Ei.
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
 
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+Wil je hem mailen? [Dat kan (klik hier).](mailto:%20Pieter.Franciscus.M@gmail.com) Maar hij wilt niets van je kopen.
